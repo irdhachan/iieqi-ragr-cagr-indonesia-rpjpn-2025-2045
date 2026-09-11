@@ -1,0 +1,9 @@
+2025 IIEQI = 68.65 (official PISA 2025 baseline; previous reference was 67.33)
+PISA Reading CAGR 2018-2022 = -0.819%
+PISA Mathematics CAGR 2018-2022 = -0.869%
+PISA Science CAGR 2018-2022 = -0.831%
+2022 equity score = 71.914
+2009-2023 urban-rural gap convergence benchmark = -6.366% p.a.
+Sensitivity overall mean deviation = 1.078 pts
+Sensitivity overall max deviation = 3.104 pts
+PISA 2025 baseline updated to official values released 8 September 2026 (Kemendikdasmen/OECD); historical PISA CAGR remains 2018-2022.
