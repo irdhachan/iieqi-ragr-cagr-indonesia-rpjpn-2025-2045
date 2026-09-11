@@ -1,0 +1,70 @@
+dataset,indicator,year,value,role,source_note
+IIEQI_annual,PISA Reading,2022,359.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Mathematics,2022,366.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Science,2022,383.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,AN Literacy,2022,59.49,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,AN Numeracy,2022,45.24,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,APK Tertiary,2022,31.16,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,APS 16-18,2022,72.88,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,Urban-Rural Gap,2022,6.75,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,GPI,2022,1.044,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Reading,2023,359.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Mathematics,2023,366.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Science,2023,383.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,AN Literacy,2023,68.13,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,AN Numeracy,2023,62.51,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,APK Tertiary,2023,31.45,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,APS 16-18,2023,73.07,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,Urban-Rural Gap,2023,6.1,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,GPI,2023,1.042,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Reading,2024,359.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Mathematics,2024,366.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Science,2024,383.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,AN Literacy,2024,68.32,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,AN Numeracy,2024,66.42,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,APK Tertiary,2024,32.0,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,APS 16-18,2024,74.35,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,Urban-Rural Gap,2024,8.01,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,GPI,2024,1.048,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,PISA Reading,2025,365.0,annual_index_input,Official PISA 2025 result released 8 Sep 2026 by Kemendikdasmen/OECD; 2025 uses observed PISA scores and 2018-2022 remains the historical CAGR window.
+IIEQI_annual,PISA Mathematics,2025,364.0,annual_index_input,Official PISA 2025 result released 8 Sep 2026 by Kemendikdasmen/OECD; 2025 uses observed PISA scores and 2018-2022 remains the historical CAGR window.
+IIEQI_annual,PISA Science,2025,389.0,annual_index_input,Official PISA 2025 result released 8 Sep 2026 by Kemendikdasmen/OECD; 2025 uses observed PISA scores and 2018-2022 remains the historical CAGR window.
+IIEQI_annual,AN Literacy,2025,68.62,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,AN Numeracy,2025,67.35,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,APK Tertiary,2025,32.89,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,APS 16-18,2025,76.2,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,Urban-Rural Gap,2025,8.01,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+IIEQI_annual,GPI,2025,1.052,annual_index_input,PISA 2023-2025 are carry-forward of observed 2022; AN/APK/APS/equity are annual inputs
+CAGR_anchor,PISA Reading,2018,371.0,historical_start,PISA 2018-2022: two actual assessment cycles
+CAGR_anchor,PISA Reading,2022,359.0,historical_end,PISA 2018-2022: two actual assessment cycles
+CAGR_anchor,PISA Mathematics,2018,379.0,historical_start,PISA 2018-2022: two actual assessment cycles
+CAGR_anchor,PISA Mathematics,2022,366.0,historical_end,PISA 2018-2022: two actual assessment cycles
+CAGR_anchor,PISA Science,2018,396.0,historical_start,PISA 2018-2022: two actual assessment cycles
+CAGR_anchor,PISA Science,2022,383.0,historical_end,PISA 2018-2022: two actual assessment cycles
+CAGR_anchor,AN Literacy,2021,53.39,historical_start,AN 2021-2025
+CAGR_anchor,AN Literacy,2025,68.62,historical_end,AN 2021-2025
+CAGR_anchor,AN Numeracy,2021,32.93,historical_start,AN 2021-2025
+CAGR_anchor,AN Numeracy,2025,67.35,historical_end,AN 2021-2025
+CAGR_anchor,APK Tertiary,2021,31.19,historical_start,APK 2021-2025
+CAGR_anchor,APK Tertiary,2025,32.89,historical_end,APK 2021-2025
+Planning_target,PISA Reading,2025,365.0,base_2025,RPJMN/RPJPN target comparison
+Planning_target,PISA Reading,2029,409.0,target_2029,RPJMN/RPJPN target comparison
+Planning_target,PISA Reading,2045,485.0,target_2045,RPJPN target comparison
+Planning_target,PISA Mathematics,2025,364.0,base_2025,RPJMN/RPJPN target comparison
+Planning_target,PISA Mathematics,2029,416.0,target_2029,RPJMN/RPJPN target comparison
+Planning_target,PISA Mathematics,2045,490.0,target_2045,RPJPN target comparison
+Planning_target,PISA Science,2025,389.0,base_2025,RPJMN/RPJPN target comparison
+Planning_target,PISA Science,2029,426.0,target_2029,RPJMN/RPJPN target comparison
+Planning_target,PISA Science,2045,487.0,target_2045,RPJPN target comparison
+Planning_target,AN Literacy,2025,68.62,base_2025,RPJMN/RPJPN target comparison
+Planning_target,AN Literacy,2029,76.62,target_2029,RPJMN/RPJPN target comparison
+Planning_target,AN Literacy,2045,75.73,target_2045,RPJPN target comparison
+Planning_target,AN Numeracy,2025,67.35,base_2025,RPJMN/RPJPN target comparison
+Planning_target,AN Numeracy,2029,75.35,target_2029,RPJMN/RPJPN target comparison
+Planning_target,AN Numeracy,2045,68.72,target_2045,RPJPN target comparison
+Planning_target,APK Tertiary,2025,32.89,base_2025,RPJMN/RPJPN target comparison
+Planning_target,APK Tertiary,2029,38.04,target_2029,RPJMN/RPJPN target comparison
+Planning_target,APK Tertiary,2045,60.0,target_2045,RPJPN target comparison
+Source_update_2026,PISA Reading,2025,365.0,official_pisa_2025,Kemendikdasmen Press Release 8 Sep 2026; OECD PISA 2025 Results
+Source_update_2026,PISA Mathematics,2025,364.0,official_pisa_2025,Kemendikdasmen Press Release 8 Sep 2026; OECD PISA 2025 Results
+Source_update_2026,PISA Science,2025,389.0,official_pisa_2025,Kemendikdasmen Press Release 8 Sep 2026; OECD PISA 2025 Results
