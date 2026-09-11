@@ -66,7 +66,7 @@ To reproduce the analysis:
 
 1. Download the dataset from `data/`.
 2. Open the R script in `code/`.
-3. Set the working directory to the repository location.
+3. Run the R script from the repository root.
 4. Run the script.
 5. Replication outputs will be generated in `outputs/`.
 
