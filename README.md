@@ -26,8 +26,8 @@ The `code/` folder contains the R script used to reproduce:
 - worked numerical examples
 - validation checks
 
-### Outputs
-The `outputs/` folder contains the generated replication tables.
+### Output
+The `output/` folder contains the generated replication tables.
 
 ## Data Sources
 
