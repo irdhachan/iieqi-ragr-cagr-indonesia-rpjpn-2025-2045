@@ -16,7 +16,7 @@ The Indonesian Inclusive Education Quality Index (IIEQI) and the RAGR-CAGR diagn
 
 ## Outputs and manuscript cross-reference
 
-| Outputs file | Manuscript element |
+| Output file | Manuscript element |
 |---|---|
 | `table1_normalization_parameters.csv` | Table 1 (observed minimum/maximum, floor, ceiling, derivation rules, clipping) |
 | `ikpii_annual_scores.csv` | Table 2 |
