@@ -80,7 +80,7 @@ options(stringsAsFactors = FALSE)
 setwd(".")
 
 INPUT_FILE <- if (file.exists(file.path("data","ikpii_master_data_FINAL_PISA2025_v2.csv"))) file.path("data","ikpii_master_data_FINAL_PISA2025_v2.csv") else "ikpii_master_data_FINAL_PISA2025_v2.csv"
-OUTPUT_DIR <- "output"
+OUTPUTS_DIR <- "output"
 dir.create(OUTPUT_DIR, showWarnings = FALSE)
 
 # -----------------------------------------------------------------------------
