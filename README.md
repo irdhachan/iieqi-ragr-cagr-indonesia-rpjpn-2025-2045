@@ -12,11 +12,11 @@ The Indonesian Inclusive Education Quality Index (IIEQI) and the RAGR-CAGR diagn
 |---|---|
 | `data/ikpii_master_data_FINAL_PISA2025_v2.csv` | Compiled dataset (one long-format CSV): annual IIEQI inputs 2022-2025, CAGR anchors, planning targets, equity history 2009-2025 (total/urban/rural/male/female APS), PISA history 2000-2025 |
 | `code/ikpii_replication_v3.R` | R script that reproduces every table and appendix from the CSV (run from the repository root: `Rscript code/ikpii_replication_v3.R`) |
-| `output/` | Generated tables (see below) |
+| `outputs/` | Generated tables (see below) |
 
 ## Outputs and manuscript cross-reference
 
-| Output file | Manuscript element |
+| Outputs file | Manuscript element |
 |---|---|
 | `table1_normalization_parameters.csv` | Table 1 (observed minimum/maximum, floor, ceiling, derivation rules, clipping) |
 | `ikpii_annual_scores.csv` | Table 2 |
